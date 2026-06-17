@@ -94,6 +94,9 @@ request timeout, and input-size guardrails (`MAX_INPUT_CHARS`,
 - Add spaced-repetition scheduling (SM-2 algorithm) for flashcard review.
 - Support `.docx` notes via `python-docx`.
 
+- ## 🌐 Live Demo
+[Try it here!](https://aicte-batch-1-ai-study-buddy-jbuqnwxdaemowb8zkffqeo.streamlit.app/)
+
 ## 👩‍💻 Built by
 
 Guru Rengarajan — AI/ML Internship Project, 2026
