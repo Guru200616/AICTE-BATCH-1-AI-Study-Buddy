@@ -95,7 +95,7 @@ request timeout, and input-size guardrails (`MAX_INPUT_CHARS`,
 - Support `.docx` notes via `python-docx`.
 
 - ## 🌐 Live Demo
-[Try it here!](https://aicte-batch-1-ai-study-buddy-jbuqnwxdaemowb8zkffqeo.streamlit.app/)
+[Try it here!] https://aicte-batch-1-ai-study-buddy.streamlit.app/
 
 ## 👩‍💻 Built by
 
